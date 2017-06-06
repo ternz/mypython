@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BinTree	practice\bintree.py	/^class BinTree:$/;"	kind:class	line:9
+BinTreeNode	practice\bintree.py	/^class BinTreeNode:$/;"	kind:class	line:1
+__init__	practice\bintree.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	practice\bintree.py	/^    def __init__(self, data=None):$/;"	kind:member	line:2
+_inorder	practice\bintree.py	/^    def _inorder(self, node):$/;"	kind:member	line:50
+_postorder	practice\bintree.py	/^    def _postorder(self, node):$/;"	kind:member	line:62
+_preorder	practice\bintree.py	/^    def _preorder(self, node):$/;"	kind:member	line:38
+bintree.py	practice\bintree.py	1;"	kind:file	line:1
+delete	practice\bintree.py	/^    def delete(self, data):$/;"	kind:member	line:32
+inorder	practice\bintree.py	/^    def inorder(self):$/;"	kind:member	line:47
+insert	practice\bintree.py	/^    def insert(self, data):$/;"	kind:member	line:13
+postorder	practice\bintree.py	/^    def postorder(self):$/;"	kind:member	line:59
+preorder	practice\bintree.py	/^    def preorder(self):$/;"	kind:member	line:35
